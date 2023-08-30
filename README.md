@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 - 👯 I’m looking to collaborate on Tech projects with Python
 - More specific info about me in my [LinkedIn](https://www.linkedin.com/)
-- 📫 How to reach me: [telegram]([https://t.me/SemenovY357])
+- 📫 How to reach me: [telegram](https://t.me/SemenovY357)
 
 ### Technology stack:
 
