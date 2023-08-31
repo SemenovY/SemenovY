@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👯 I’m looking to collaborate on Tech projects with Python
-- More specific info about me in my [LinkedIn](https://www.linkedin.com/)
+- More specific info about me in my [LinkedIn](www.linkedin.com/in/yuriy-semenov)
 - 📫 How to reach me: [telegram](https://t.me/SemenovY357)
 
 ### Technology stack:
