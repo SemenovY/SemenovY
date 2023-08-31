@@ -1,6 +1,4 @@
 ### Hi👋, I'm Yuriy Semenov
-<a href="https://app.daily.dev/SemenovY"><img src="https://api.daily.dev/devcards/b4362461d90744029d918e597fc8b826.png?r=01c" width="200" alt="whoami's Dev Card"/>
-
 <!--
 **SemenovY/SemenovY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,5 +42,5 @@ Here are some ideas to get you started:
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemenovY&show_icons=true&layout=compact&theme=dark" alt="SemenovY">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SemenovY&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="SemenovY">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SemenovY&&theme=dark" alt="SemenovY">
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SemenovY&&theme=dark" alt="SemenovY"> <a href="https://app.daily.dev/SemenovY"><img src="https://api.daily.dev/devcards/b4362461d90744029d918e597fc8b826.png?r=01c" width="200" alt="whoami's Dev Card"/>
 </div>
