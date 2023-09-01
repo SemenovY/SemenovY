@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👯 I’m looking to collaborate on Tech projects with Python
-- More specific info about me in my [LinkedIn](www.linkedin.com/in/yuriy-semenov)
+- 📫 More specific info about me in my [LinkedIn](www.linkedin.com/in/yuriy-semenov)
 - 📫 How to reach me: [telegram](https://t.me/SemenovY357)
 
 ### Technology stack:
@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <div>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemenovY&show_icons=true&layout=compact&theme=dark" alt="SemenovY">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=SemenovY&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="SemenovY">
-<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=SemenovY&&theme=dark" alt="SemenovY"> <a href="https://app.daily.dev/SemenovY"><img src="https://api.daily.dev/devcards/b4362461d90744029d918e597fc8b826.png?r=01c" width="150" alt="whoami's Dev Card"/>
+<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=SemenovY&&theme=dark" alt="SemenovY"> <a href="https://app.daily.dev/SemenovY"><-<!--<img src="https://api.daily.dev/devcards/b4362461d90744029d918e597fc8b826.png?r=01c" width="150" alt="whoami's Dev Card"/> -->
 </div>
