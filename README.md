@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 I’m looking to collaborate on Tech projects with Python
+- 👯 I’m looking to collaborate on Tech projects with Python or Go
 - 📫 More specific info about me in my [LinkedIn](https://www.linkedin.com/in/yuriy-semenov/)
 - 📫 How to reach me: [telegram](https://t.me/SemenovY357)
 
